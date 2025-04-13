@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/ArtStore_MSA_Project-master/artservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ArtStore_MSA_Project-master/authservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ArtStore_MSA_Project-master/cartservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ArtStore_MSA_Project-master/eureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/apigateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cartservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../apigateway/apigateway/src/main/java" charset="UTF-8" />
   </component>
 </project>

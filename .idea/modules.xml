@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ArtStore_MicroService.iml" filepath="$PROJECT_DIR$/.idea/ArtStore_MicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ArtStore_MSA_Project-master.iml" filepath="$PROJECT_DIR$/.idea/ArtStore_MSA_Project-master.iml" />
     </modules>
   </component>
 </project>
